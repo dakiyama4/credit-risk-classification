@@ -1,0 +1,7 @@
+This credit risk analysis is to train a machine model that can classify and identify borrowers who are low and high risk. The dataset that is used is of lending activity from a lending services company and the purpose of this model is to try to predict the people who are likely to default on a loan. 
+
+The machine learning model gave a “balanced_accuracy_score” of 0.9520479254722232.
+The precision was 0=1.0 and 1=0.85.
+The recall was 0=0.99 and 1 = 0.91. 
+
+Overall, I’m not confident with the predictions made by the machine model. The model was fitted with imbalance data and it has a higher possibility of making mistakes for a healthy loan that is classified as a non-healthy loan and vice versa. I would want a model that had a higher percentage of accuracy and precision. 
